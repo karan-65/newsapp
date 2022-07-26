@@ -12,7 +12,7 @@ class result extends StatelessWidget {
     } else if (resultScore <= 10) {
       resultText = "You are great person";
     } else {
-      "you need to improve yourself";
+      "You need to improve yourself";
     }
     return resultText;
   }
